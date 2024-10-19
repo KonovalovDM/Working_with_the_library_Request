@@ -24,3 +24,4 @@ else:
 print(f"Количество репозиториев с использованием html: {response_json['total_count']:,}")
 
 
+
